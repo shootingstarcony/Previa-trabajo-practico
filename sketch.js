@@ -18,8 +18,9 @@ const trabajitos = [
         photo: "https://shootingstarcony.github.io/Previa-trabajo-practico/img/1000109088%20(1)%20(1).webp",
         title: "Ilustración para FlorAmor",
         description: "Trabajo de Procesos y Prototipos I, con la Profesora Pamela Fuentes, Ilustración de personaje para marca ficticia."
-    }            
-];
+    },  
+    
+]
 
 
 
